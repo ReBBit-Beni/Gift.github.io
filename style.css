@@ -19,12 +19,12 @@ a {
 }
 
 @font-face {
-  font-family: 'mukashi'; /* フォントの名前を指定 */
-  src: url('fonts/mukashi.ttf') format('TrueType'); /* フォントファイルへのパスを指定 */
+  font-family: 'mukashifont'; /* フォントの名前を指定 */
+  src: url('fonts/mukashifont.ttf') format('TrueType'); /* フォントファイルへのパスを指定 */
 }
 
 body {
-  font-family: 'mukashi', sans-serif;
+  font-family: 'mukashifont', sans-serif;
   font-size: 30px;
 }
 
